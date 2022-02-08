@@ -1,0 +1,34 @@
+{
+  "trips": [
+    {
+      "title": "Weekend Stay in Paris",
+      "price": "£295",
+      "id": 1,
+      "loc": "europe"
+    },
+    {
+      "title": "3 Night Stay in London",
+      "price": "£495",
+      "id": 2,
+      "loc": "europe"
+    },
+    {
+      "title": "10 Night Stay in Morroco",
+      "price": "£995",
+      "id": 3,
+      "loc": "europe"
+    },
+    {
+      "title": "Weekend Stay in New York",
+      "price": "£295",
+      "id": 4,
+      "loc": "america"
+    },
+    {
+      "title": "Weekend Stay in LA",
+      "price": "£295",
+      "id": 5,
+      "loc": "america"
+    }
+  ]
+}
